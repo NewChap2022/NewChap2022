@@ -13,8 +13,21 @@
 ## ABOUT ME
 I'm a junior web developer who is currently studying in bootcamp. I have no coding experience before bootcamp. Please check out the projects I have done after learning coding in the past two months. My past education experience allows me to learn new things fast and work as a team player. If you like my work or have any questions, please feel free to [contact me](mailto:irisyangshu@gmail.com).
 
-## MY WORK
-- [Team Profile Generator](URL "https://github.com/NewChap2022/team-profile-generator")
-- [Professional README Generator](URL "https://github.com/NewChap2022/professional-readme-generator")
-- [PokeAPI](URL "https://github.com/NewChap2022/PokeAPI")
-- [Code Quiz](URL "https://github.com/NewChap2022/code-quiz")
+## MY Projects
+- <strong>Tech Blog</strong>
+<br>• [Heroku](URL "https://shrouded-castle-47195.herokuapp.com/") • [GitHub](URL "https://github.com/NewChap2022/tech-blog")
+<br>• Description: a CMS-style blog site
+![image](https://user-images.githubusercontent.com/103200377/195869562-0050edcf-90df-46dc-891c-71a6cabf0813.png)
+- <strong> Tick Tock (Group Project) </strong>
+<br>• [Heroku](URL "https://pay-day-schedule.herokuapp.com") • [GitHub](URL "https://github.com/tahir-arslan/pay-day")
+<br>• Description: Clockin and Clockout Timesheet Management System
+![image](https://user-images.githubusercontent.com/103200377/195870459-a15d8593-4a38-4f79-bbef-6a0eed7ba7d6.png)
+- <strong> What's Cookin' (Group Project) </strong>
+<br>• [Heroku](URL "https://floating-river-67151.herokuapp.com/") • [GitHub](URL "https://github.com/ryanraposo/whatscookin")
+<br>• Description: A MERN Blog App
+![image](https://user-images.githubusercontent.com/103200377/195872344-cc410382-4c0e-495f-988e-c6b36ff81945.png)
+- <strong>PokeAPI</strong>
+<br>• [Heroku](URL "https://newchap2022.github.io/PokeAPI/") • [GitHub](URL "https://github.com/NewChap2022/PokeAPI")
+<br>• Description: A service-api based webpage
+![image](https://user-images.githubusercontent.com/103200377/195872013-e1a4132a-c122-4761-aa64-b0b0e88a24dc.png)
+
