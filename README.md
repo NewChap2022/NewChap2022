@@ -11,7 +11,7 @@
 
 
 ## ABOUT ME
-I'm a junior web developer who is currently studying in bootcamp. I have no coding experience before bootcamp. Please check out the projects I have done after learning coding in the past two months. My past education experience allows me to learn new things fast and work as a team player. If you like my work or have any questions, please feel free to [contact me](mailto:irisyangshu@gmail.com).
+I'm a junior full stack developer who is currently studying in bootcamp. I have no coding experience before bootcamp. Please check out the projects I have done after learning coding in the past six months. My past education experience allows me to learn new things fast and work as a team player. If you like my work or have any questions, please feel free to [contact me](mailto:irisyangshu@gmail.com).
 
 ## MY Projects
 - <strong>Tech Blog</strong>
